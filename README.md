@@ -12,5 +12,5 @@
 
 24.11.08 리액트 기본 이해와 웹소켓 채팅용 프런트 및 데이터 저장에 대한 문제 해결([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/3780ea118888e523ce2baa0f2db5b31c0f862fce/Nov/2024-11-08.md))
 
-### [11월] 
+### [12월] 
 24.12.09 Docker Multi Stage Build에 대한 이해와 문제 해결([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/dfd2ffc26a71a5d459cb2033fe6d2e713b5120b5/Dec/2024-12-09.md))
