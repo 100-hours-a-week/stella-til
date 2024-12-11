@@ -16,3 +16,6 @@
 24.12.09 Docker Multi Stage Build에 대한 이해와 문제 해결([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/dfd2ffc26a71a5d459cb2033fe6d2e713b5120b5/Dec/2024-12-09.md))
 
 24.12.10 Multer에 대한 이해, JavaScript Blur event 이해([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/538daf34126c13d0c780a789524e1d7c4dc27f92/Dec/2024-12-10.md))
+
+24.12.11 Test containers, GitOps, Multipart/form-data에서의 바운더리에 대한 이해([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/39a43cc6bf1456bea8f69e6432070a85fe9d96ac/Dec/2024-12-11.md))
+
