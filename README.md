@@ -19,3 +19,7 @@
 
 24.12.11 Test containers, GitOps, Multipart/form-data에서의 바운더리에 대한 이해([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/39a43cc6bf1456bea8f69e6432070a85fe9d96ac/Dec/2024-12-11.md))
 
+24.12.12 Test containers에 대한 이해, DB Migration 개념([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/43ad59f8bb0a6473d9ef9294cd7473ae4f76c8f0/Dec/2024-12-12.md))
+
+
+
