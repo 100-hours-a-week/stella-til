@@ -21,5 +21,8 @@
 
 24.12.12 Test containers에 대한 이해, DB Migration 개념([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/43ad59f8bb0a6473d9ef9294cd7473ae4f76c8f0/Dec/2024-12-12.md))
 
+24.12.13 컨테이너 클러스터의 개념, 컨테이너 오케스트레이션 With Docker Swarm, gh cli 사용법에 대한 의문점 해결 ([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/9b93c7081baf8f9769ecb8ad402efc9dba38c6d3/Dec/2024-12-13.md))
+
+
 
 
