@@ -23,6 +23,8 @@
 
 24.12.13 컨테이너 클러스터의 개념, 컨테이너 오케스트레이션 With Docker Swarm, gh cli 사용법에 대한 의문점 해결 ([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/9b93c7081baf8f9769ecb8ad402efc9dba38c6d3/Dec/2024-12-13.md))
 
+24.12.14 Java String 관련 함수 ([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/1624f5f3251f577a8a51968b1a341459d90ebde9/Dec/2024-12-14.md))
 
+24.12.15 Prometheus, Morgan Log에 대한 개념 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/1fb7e8d45815cfb4b74c9c296f111664eae3801a/Dec/2024-12-15.md))
 
 
