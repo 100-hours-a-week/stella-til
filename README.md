@@ -27,4 +27,4 @@
 
 24.12.15 Prometheus, Morgan Log에 대한 개념 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/1fb7e8d45815cfb4b74c9c296f111664eae3801a/Dec/2024-12-15.md))
 
-
+24.12.16 CORS 작동 방식 공부(Preflight Request 실습) ([상세 내역 링크](https://velog.io/@choiyoorim/CORS의-개념과-방식))
