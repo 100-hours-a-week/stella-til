@@ -32,3 +32,8 @@
 24.12.17 WireShark를 활용한 네트워크 분석 실습(Retransmission 개념 학습 ) ([상세 내역 링크](https://velog.io/@choiyoorim/WireShark를-활용한-네트워크-분석-실습))
 
 24.12.18 TCP 세그먼트, HTTP 보안 헤더, 쿠키 sameSite 옵션, 데이터베이스 식별관계 설정시 부모키를 꼭 복합키로 설정해야하는가에 대한 고민 ([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/3780ea118888e523ce2baa0f2db5b31c0f862fce/Nov/2024-11-08.md))
+
+24.12.19 쿠버네티스 컨텍스트 설정 ([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/edcd0c1340c3c632730b01d498c7b4c6512dc891/Dec/2024-12-19.md))
+
+
+
