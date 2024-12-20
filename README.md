@@ -35,5 +35,6 @@
 
 24.12.19 쿠버네티스 컨텍스트 설정 ([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/edcd0c1340c3c632730b01d498c7b4c6512dc891/Dec/2024-12-19.md))
 
+24.12.20 Github Actions, Docker-Compose, Kubernetes 구조([상세 내역 링크](https://github.com/100-hours-a-week/stella-til/blob/e8c3fb0991bcd66b28adf78e8d5d7cc3ee45676a/Dec/2024-12-20.md))
 
 
